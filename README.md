@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This project consume OMDB api.
+
+The first page loaded with keyword avengers.
+
+All the favourite and Unfavourite movies are stored in localStorage.
+
 ## Available Scripts
 
 In the project directory, you can run:
